@@ -17,4 +17,4 @@ SAMT is an R package that contains different functions to display and analize tr
 
 ### Overview of SAMT functioning
 
-> Reference: 
+## Reference 
