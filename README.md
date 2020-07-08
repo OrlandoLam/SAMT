@@ -15,6 +15,15 @@ SAMT is an R package that contains different functions to display and analize tr
 
 `devtools::install_github("OrlandoLam/SAMT")`
 
-### Overview of SAMT functios
+### Overview of SAMT functions
+
+>Taxa.list
+:A dataframe with the list of taxa provided in SAMT.
+
+>Traits.list
+:A dataframe with the list of traits provided in SAMT.
+
+>SAMTdb
+:The databse designed for marine macroinvertebrates taxa in South Australia.
 
 ## Reference 
