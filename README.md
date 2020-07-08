@@ -7,5 +7,6 @@ SAMT is an R package that contains different functions to display and analize tr
 
 First install or call devtools
 
-`<addr>`install.packages("devtools")
+> install.packages("devtools")
+
 `<addr>`library(devtools)
