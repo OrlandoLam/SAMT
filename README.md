@@ -23,4 +23,8 @@ SAMT is an R package that contains different functions to display and analize tr
 
 `SAMTdb`: The databse designed for marine macroinvertebrates taxa in South Australia.
 
+`TVT`: Traits Values by Taxa function.
+
+`TVSR`: Traits Values per Site/Replicate function.
+
 ## Reference 
