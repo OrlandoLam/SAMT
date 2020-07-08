@@ -5,12 +5,15 @@ SAMT is an R package that contains different functions to display and analize tr
 
 ## How to install
 
-First install or call devtools
+###First install or call devtools
 
 `install.packages("devtools")`
 
 `library(devtools)`
 
-Install SAMT
+### Then install SAMT
 
 `devtools::install_github("OrlandoLam/SAMT")`
+
+### Overview of SAMT functioning
+
