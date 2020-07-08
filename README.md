@@ -37,6 +37,6 @@ SAMT package is an ongoing project hosted by the Coastal Ecosystem Ecology Lab f
 
 >Contact details
 
-Lab head: Sabine Dittmann <sabine.dittmann@flinders.edu.au>
+Coastal Ecosystem Ecology Lab head: Sabine Dittmann <sabine.dittmann@flinders.edu.au>
 
 SAMT maintainer: Orlando Lam-Gordillo <orlando.lamgordillo@flinders.edu.au>
