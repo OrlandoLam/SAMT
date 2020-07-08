@@ -15,6 +15,6 @@ SAMT is an R package that contains different functions to display and analize tr
 
 `devtools::install_github("OrlandoLam/SAMT")`
 
-### Overview of SAMT functioning
+### Overview of SAMT functios
 
 ## Reference 
