@@ -27,14 +27,16 @@ SAMT is an R package that contains different functions to display and analize tr
 
 `TVSR`: Traits Values per Site/Replicate function.
 
-## Reference 
+## Source
 
+The SAMT package and associated data are presented in the following article:
 
 ## Additional information
 
 SAMT package is an ongoing project hosted by the Coastal Ecosystem Ecology Lab from Flinders University.
 
-###Contact details
+>Contact details
 
 Lab head: Sabine dittmann <sabine.dittmann@flinders.edu.au>
+
 SAMNT maintainer: Orlando Lam-Gordillo <orlando.lamgordillo@flinders.edu.au>
