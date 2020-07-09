@@ -21,7 +21,7 @@ SAMT is an R package that contains different functions to display and analyze tr
 
 `Traits.list`: A dataframe with the list of traits provided in SAMT.
 
-`SAMTdb`: The databse designed for marine macroinvertebrates taxa in South Australia.
+`SAMTdb`: The database designed for marine macroinvertebrates taxa in South Australia.
 
 `TVT`: Traits Values by Taxa function.
 
