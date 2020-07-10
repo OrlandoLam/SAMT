@@ -1,5 +1,5 @@
 # SAMT
-The South Australian Macrobenthic Traits database 
+The South Australian Macrobenthic Traits 
 
 SAMT is an R package that contains different functions to display, manipulate and analyze trait information of marine macrobenthic fauna.
 
