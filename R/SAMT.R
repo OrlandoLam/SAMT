@@ -80,10 +80,9 @@ TVT<-function(a,b){
 #' TVSR(dummy_data,SAMTdatabase)
 
 TVSR<-function(a,b){  
-	x<-data.frame(rowSums(a))
+	x<-data.frame(a)
 	y<-data.frame(b,row.names=1)	
 	{
-	f<-data.frame((x[,1])*(y[,2:54]))
-	TAS<-data.frame(t(t(as.matrix(f)) %*% as.matrix(y)))
+	TAS<-data.frame(t(t(as.matrix(x)) %*% as.matrix(y)))
 	print(TAS)
 	}}
