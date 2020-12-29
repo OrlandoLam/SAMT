@@ -1,6 +1,6 @@
 Package: SAMT
 Title: South Australian Macrobenthic Traits database(SAMT): A database and tool for trait analysis
-Version: 1.0.0
+Version: 2.0.0
 Authors@R:c(person("Orlando", "Lam-Gordillo", email = "orlando.lamgordillo@flinders.edu.au", role = c("aut", "cre"),comment = c(ORCID = "0000-0001-6805-6260")),
 		person("Ryan", "Baring", role="aut"),
 		person("Sabine", "Dittmann", role="aut"))
