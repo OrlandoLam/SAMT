@@ -29,7 +29,7 @@ SAMT is an R package that contains different functions to manipulate and analyse
 
 ## Source
 
-The SAMT package and associated data are presented in the following article:
+The SAMT package and associated data are presented in the following article: 'Establishing the South Australian Macrobenthic Traits (SAMT) database: A trait classification for functional assessments' https://doi.org/10.1002/ece3.7040
 
 ## Additional information
 
